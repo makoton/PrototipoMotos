@@ -1,0 +1,11 @@
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\bin\Debug\PrototipoMotos.exe
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\bin\Debug\PrototipoMotos.pdb
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.Form1.resources
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.Properties.Resources.resources
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.csproj.GenerateResource.Cache
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.exe
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.pdb
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormEditCliente.resources
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormAgregarEditarPersonal.resources
+C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormAgregarEditarTrabajos.resources
