@@ -16,7 +16,7 @@ namespace PrototipoMotos
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
-
+            /*te gusta el pico?*/
             string cambio = "este es un cambio de prueba para Git";
         }
     }

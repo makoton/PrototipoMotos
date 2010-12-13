@@ -9,3 +9,5 @@ C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMo
 C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormEditCliente.resources
 C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormAgregarEditarPersonal.resources
 C:\Users\Makoto\Documents\Visual Studio 2008\Projects\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.FormAgregarEditarTrabajos.resources
+C:\Users\Fayer\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.exe
+C:\Users\Fayer\PrototipoMotos\PrototipoMotos\obj\Debug\PrototipoMotos.pdb
